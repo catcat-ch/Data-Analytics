@@ -1,2 +1,2 @@
-# Data-Analytics
-Data analytics projects
+# Training_projects
+Data analytics projects on Skillbox 
